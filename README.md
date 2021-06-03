@@ -1,2 +1,3 @@
-# kodluyoruz-bootstrap-odev1
-Kodluyoruz.org - Bootstrap Odev1
+# Kodluyoruz.org - Bootstrap Odev1
+
+Veli Can Yıldız
